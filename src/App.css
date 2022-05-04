@@ -1,0 +1,27 @@
+/*body
+{
+  background: rgb(128,0,128);
+  background: radial-gradient(circle, rgb(128,0,128));
+}*/
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    max-width: 500px;
+    width: 100%;
+    margin: auto;
+}
+.container .form
+{
+    width: 70%;
+    border: 1px solid #d3d3d3;
+    padding: 20px;
+    border-radius: 5px;
+    background: #fff;
+}
+button
+{
+    background: #ea85fa;;
+}
